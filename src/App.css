@@ -1,3 +1,14 @@
+.posts {
+  list-style: none;
+  margin: 0px auto;
+  width: 800px;
+  text-align: left;
+}
+
+.error {
+  color: red;
+}
+
 .App {
   text-align: center;
 }
